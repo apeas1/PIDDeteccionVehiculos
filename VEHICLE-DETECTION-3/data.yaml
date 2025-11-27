@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: 3W
+  1: Bus
+  2: Cars
+  3: LCV
+  4: M2W
+  5: MAV
+  6: Truck
